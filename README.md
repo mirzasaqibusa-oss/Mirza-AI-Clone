@@ -7,6 +7,7 @@ Ye ek advanced AI tool hai jo kisi bhi insaan ki 3-second ki recording se uski a
 🚀 Kaise Use Karein? (Simple Steps)
 
 Button Dabayein: Niche diye gaye button par click karke tool open karein.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mirzasaqibusa-oss/Mirza-AI-Clone/blob/main/Mirza_Ai_Clone.ipynb)
 
 Sab Chalayein: Colab khulne par upar menu mein Runtime > Run all par click karein.
 
