@@ -2,22 +2,32 @@
 
 ⚡ Professional Multilingual Voice Cloner by Mirza
 
-Ye tool aapko kisi bhi awaaz ko clone karne ki permission deta hai. Ismein koi limit nahi hai aur ye bilkul free hai.
+Ye ek advanced AI tool hai jo kisi bhi insaan ki 3-second ki recording se uski awaaz clone kar sakta hai. Ismein koi limit nahi hai aur ye bilkul free hai.
 
-🚀 Kaise Use Karein?
+🚀 Kaise Use Karein? (Step-by-Step)
 
-Niche diye gaye Open in Colab button par click karein.
+Colab Open Karein: Niche diye gaye button par click karein.
 
-Google Colab khulne par upar menu mein Runtime > Run all dawayein.
+Connect GPU: Colab khulne par check karein ke upar right side par T4 GPU connected hai.
 
-2-3 minute intezar karein, niche aapko ek Public Link (gradio.live) milega, use open karein.
+Start Tool: Upar menu mein jayein aur Runtime > Run all dawayein.
+
+Public Link: Jab setup khatam hoga, niche terminal mein ek Public Link (gradio.live) aayega. Us par click karein.
+
+Cloning:
+
+Reference Audio mein apni 3-5 second ki recording upload karein.
+
+Text box mein wo likhein jo aap bulwana chahte hain.
+
+Generate dawayein aur aapka clone audio taiyar!
 
 ✨ Features
 
-Unlimited Cloning: Jitni marzi voices clone karein.
+Unlimited Usage: Aap jitni marzi voices clone kar sakte hain.
 
-Multilingual Support: Urdu, Hindi, English aur 10+ languages.
+Multilingual: Urdu, Hindi, Punjabi aur English samait 10 se zyada languages support karta hai.
 
-1-Click Setup: Professional layout with automatic dependency installation.
+Easy Sharing: Aap ye GitHub link apne doston ko bhej sakte hain.
 
 Created with ❤️ by Mirza
