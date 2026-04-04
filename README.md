@@ -18,6 +18,6 @@ Cloning Karein: Apni recording upload karein aur text likh kar Generate dawayein
 
 Unlimited Usage: Jitni marzi voices clone karein.
 
-Multilingual: Urdu, Hindi, Punjabi aur English support.
+Multilingual Support: Urdu, Hindi, Punjabi aur English support karta hai.
 
 Created with ❤️ by Mirza
